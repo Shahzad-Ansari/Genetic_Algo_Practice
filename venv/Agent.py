@@ -1,5 +1,4 @@
 
-from fuzzywuzzy import fuzz
 import random
 import string
 
