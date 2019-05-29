@@ -71,7 +71,7 @@ def main(user_string):
     random_string_three = string_array[2]
     check_fitness(user_string, random_string_one, random_string_two, random_string_three)
 
-
+asdf
 main(user_string)
 
 
