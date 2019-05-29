@@ -1,6 +1,10 @@
 import random
 import string
 
+class Agent:
+
+
+
 user_string = input("Enter in the string you want to be guessed :")
 def random_string(u,a,b,c):
 
@@ -71,7 +75,7 @@ def main(user_string):
     random_string_three = string_array[2]
     check_fitness(user_string, random_string_one, random_string_two, random_string_three)
 
-asdf
+
 main(user_string)
 
 
